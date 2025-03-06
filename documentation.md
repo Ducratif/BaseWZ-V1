@@ -2,7 +2,7 @@
 
 ### Changer l'argent de départ (essentialmode)
 Pour changer l'argent de départ, veuillez suivre ce chemin d'accès :
-`resources/[scripts]/[essential]/essentialmode/server/util.lua`
+`resources/[essential]/essentialmode/server/util.lua`
 Vous pouvez ensuite changer l'argent de départ en Cash (`Ligne 11`) et l'argent de départ en Banque (`Ligne 12`)
 
 ### Changer le texte et les images dans le menu création personnage (esx_identity)
